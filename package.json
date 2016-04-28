@@ -1,0 +1,25 @@
+{
+  "name": "champladder.us",
+  "version": "1.0.0",
+  "description": "Leaderboard of League of Legends' most mastered champions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aabraham1414/champladder.us.git"
+  },
+  "keywords": [
+    "riot",
+    "games",
+    "api",
+    "challenge"
+  ],
+  "author": "Abil Abraham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aabraham1414/champladder.us/issues"
+  },
+  "homepage": "https://github.com/aabraham1414/champladder.us#readme"
+}
